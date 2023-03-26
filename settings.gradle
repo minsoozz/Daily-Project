@@ -1,1 +1,3 @@
-rootProject.name = 'zumgnmarket'
+rootProject.name = 'daily-project'
+include 'zumterpark'
+
